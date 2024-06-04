@@ -50,3 +50,10 @@
   background-color: #F6F7F8;
   padding : 40px 100px;
 }
+
+.title {
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 20px;
+  margin-left: 100px;
+}
